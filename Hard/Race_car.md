@@ -1,7 +1,7 @@
 # 818. Race Car
 
 ## Problem Statement
-You are driving a **race car** that has `3` possible commands:
+You are driving a **race car** that has `3` possible commands:  
 - `'A'` (Accelerate): Moves the car forward by the current speed. The speed doubles after accelerating.
 - `'R'` (Reverse): Reverses the direction and resets speed to `1` (if positive) or `-1` (if negative).
 
