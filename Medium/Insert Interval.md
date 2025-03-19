@@ -4,7 +4,7 @@
 This repository contains a Python solution for solving the **Insert Interval** problem from LeetCode, which involves inserting a new interval into an existing list of intervals and merging overlapping intervals.
 
 ## Solution Approach
-
+ 
 ### Problem Description
 You are given an array of non-overlapping intervals, sorted in ascending order, and a new interval to insert. The goal is to merge overlapping intervals and return the resulting list of disjoint intervals.
 
