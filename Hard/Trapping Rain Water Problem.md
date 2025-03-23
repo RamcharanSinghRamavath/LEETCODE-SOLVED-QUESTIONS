@@ -2,7 +2,7 @@
 
 ## Problem Statement  
 Given an array `height` of non-negative integers where each element represents the height of a bar in a histogram, compute how much water can be trapped between the bars after raining.  
-
+  
 ### Example  
 #### Input:  
 ```python
