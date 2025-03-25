@@ -1,5 +1,5 @@
 # 432. All O` one Data Structure
-
+     
 ## 1. Problem Statement
 
 Design a data structure that supports the following operations in **O(1)** time:
