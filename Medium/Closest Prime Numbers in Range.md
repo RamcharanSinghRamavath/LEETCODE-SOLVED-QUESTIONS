@@ -1,7 +1,7 @@
 # Closest Prime Numbers
 
 ## Problem Statement
-
+  
 Given two integers `left` and `right`, find the pair of prime numbers in the range `[left, right]` that have the smallest difference. If there are no such pairs, return `[-1, -1]`.
 
 ## Approach
