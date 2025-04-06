@@ -72,7 +72,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For questions or feedback, feel free to reach out:
 - **Vishwas Chakilam**
-- **Email**: work.Vishwas1@gmail.com
-- **GitHub**: [vishwas-Chakilam](https://github.com/vishwas-Chakilam)
+- **Email**: work.ramcharansinghramavath@gmail.com
+- **GitHub**: [Ramcharan Singh Ramavath](https://github.com/RamcharanSinghRamavath)
 
 ---
